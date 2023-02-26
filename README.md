@@ -1,5 +1,5 @@
 <h1 align="left" id="wellingtonsilverio-title">:wave: Hello there! I'm Wellington Silverio</h1>
-<h3 align="left">I am a Fullstack DevOps, doing SR/DevOps Engineering things</h3>
+<h3 align="left">I am a Fullstack "DevOps" :sweat_smile:, doing SR Engineering things</h3>
 
 <p align="left">
   <a href="https://github.com/wellingtonsilverio/wellingtonsilverio">
@@ -23,7 +23,7 @@
 </p>
 
 <a href="#wellingtonsilverio-title">
-  <img src="https://raw.githubusercontent.com/wellingtonsilverio/github-stats-transparent/output/generated/overview.svg" alt="wellingtonsilverio" align="right" />
+  ![wellingtonsilverio GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonsilverio&show_icons=true&theme=dracula&count_private=true)
 </a>
 
 - :office: &nbsp;I'm currently working at **[Cotabest Solutions]**
@@ -135,6 +135,6 @@
 
 <!-- links -->
 
-[84.51°]: https://www.cotabest.com.br/ "Cotabest Home Page"
+[Cotabest Solutions]: https://www.cotabest.com.br/ "Cotabest Home Page"
 [issues page]: https://github.com/wellingtonsilverio/wellingtonsilverio/issues "wellingtonsilverio/issues"
 [linkedin]: https://www.linkedin.com/in/wellington-silverio/ "Wellington Silverio LinkedIn"
