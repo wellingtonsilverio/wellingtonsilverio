@@ -23,7 +23,7 @@
 </p>
 
 <a href="#wellingtonsilverio-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=wellingtonsilverio&show_icons=true&theme=dracula&count_private=true" alt="wellingtonsilverio GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wellingtonsilverio&show_icons=true&theme=dracula&count_private=true" alt="wellingtonsilverio GitHub stats" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[Cotabest Solutions]**
