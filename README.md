@@ -26,8 +26,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wellingtonsilverio&show_icons=true&theme=tokyonight&count_private=true" alt="wellingtonsilverio GitHub stats" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[Cotabest Solutions]**
-- :seedling: &nbsp;I’m currently learning **NextJS**
+[//]: # (- :office: &nbsp;I'm currently working at **[Cotabest Solutions]**)
+- :seedling: &nbsp;I’m currently learning **NextJS and Zustand**
 - :speech_balloon: &nbsp;I like to talk about **Game Development** and **AI**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
@@ -40,12 +40,6 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#wellingtonsilverio-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
     <td align="center" width="96">
       <a href="#wellingtonsilverio-tech">
         <img src="https://user-images.githubusercontent.com/4727/38117885-69734bbc-336c-11e8-8653-86b0fa071896.png" width="48" height="48" alt="NodeJS" />
@@ -81,6 +75,12 @@
         <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
+    </td>
+    <td align="center" width="96">
+      <a href="#wellingtonsilverio-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
     </td>
   </tr>
   <tr>
